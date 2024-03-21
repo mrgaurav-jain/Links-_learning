@@ -1,1 +1,9 @@
-Enter file contents here
+PhonePe- 1st Round: 20th March'2023, 3:30 PM IST.
+Interviewer: /Esha
+question: Hub and Spoke model along with the datacentres in place, how will they communicate with each other.
+Q2: What do you understand by the ASG in azure?
+Q3: How would you club the partition size into 10 TB, if you have only 2 hard drive of size 5TB each.
+Q4: What is BGP protocal and where its used?
+    Works on OSPF(open shortest path first)IGP(interior gateway protocol however BGP is a exterior gateway protocol, It has the Autonomous system based routing and reach to next hop quickly thats why it was introduced
+
+Q5: Working with Terraform, how do you ensure two users can continue to use the file without causing any challenges, Answer: Introduce the locks on to them.
